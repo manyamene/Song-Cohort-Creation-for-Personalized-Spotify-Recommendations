@@ -16,3 +16,7 @@ Utilize EDA and clustering techniques to segment songs into distinct cohorts, id
 **Deliverable:**
 
 A comprehensive analysis with well-defined song cohorts, including insights into the features that drive the grouping and a clustering model ready to support improved recommendation algorithms.
+
+**Data Description:** 
+
+The dataset comprises information from Spotify's API regarding all albums by the Rolling Stones available on Spotify. It's crucial to highlight that each song possesses a unique ID.
