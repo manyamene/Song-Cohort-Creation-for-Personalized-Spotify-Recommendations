@@ -19,4 +19,4 @@ A comprehensive analysis with well-defined song cohorts, including insights into
 
 **Data Description:** 
 
-The dataset comprises information from Spotify's API regarding all albums by the Rolling Stones available on Spotify. It's crucial to highlight that each song possesses a unique ID.
+The dataset comprises information from Spotify's API regarding all albums by the Rolling Stones available on Spotify. It's crucial to highlight that each song possesses a unique ID. 
